@@ -13,5 +13,6 @@ Esse também é o inicio de tentar dar uma melhorada na minha carreira pra futur
 <img width="736" height="688" alt="stark mark 1" src="https://github.com/user-attachments/assets/902b0d2f-75d2-4c58-97f4-9a38f24492dc" />
 
 Guia dos processos:
-[O inicio]( ./O inicio.md)
+
+[O inicio]( ./Inicio.md)
 
